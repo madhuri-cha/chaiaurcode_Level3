@@ -17,7 +17,7 @@ for - middleware - we use cors package
    Middlewares : ss
    utility : write that code which is resuable again and again
    node.js API error
-
+   memo = a sheet where statuscode are mention (HTTP response status code)
 
 git init            
 git add .      
